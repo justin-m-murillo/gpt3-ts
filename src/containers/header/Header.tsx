@@ -1,6 +1,6 @@
 import './header.css'
 import people from '../../assets/people.png'
-import ai from '../../assets/ai.png'
+import ai from '../../assets/ai-min.png'
 
 const Header = () => {
   const headerTitle = "Let's Build Something amazing with GPT-3 OpenAI";
